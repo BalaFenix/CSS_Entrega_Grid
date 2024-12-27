@@ -53,14 +53,9 @@ footer button {
   margin-top: 1rem;
   padding: 0.5rem 1rem;
   background-color: white;
-  color: var(--orange-color);
+  color: black;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
-}
-
-footer button:hover {
-  background-color: #fef2ef;
 }
 
 .school {
